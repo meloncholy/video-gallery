@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{1863889A-00DF-4350-BA39-669CA949CB81}") = "Video Gallery", "Video Gallery.phpproj", "{CDF5B0F3-9A8A-49FD-8B21-9B1D5FB1DDC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Local|PHP 5.2 = Local|PHP 5.2
+		Production|PHP 5.2 = Production|PHP 5.2
+		Staging|PHP 5.2 = Staging|PHP 5.2
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDF5B0F3-9A8A-49FD-8B21-9B1D5FB1DDC3}.Local|PHP 5.2.ActiveCfg = Local|PHP 5.2
+		{CDF5B0F3-9A8A-49FD-8B21-9B1D5FB1DDC3}.Local|PHP 5.2.Deploy.0 = Local|PHP 5.2
+		{CDF5B0F3-9A8A-49FD-8B21-9B1D5FB1DDC3}.Production|PHP 5.2.ActiveCfg = Production|PHP 5.2
+		{CDF5B0F3-9A8A-49FD-8B21-9B1D5FB1DDC3}.Production|PHP 5.2.Deploy.0 = Production|PHP 5.2
+		{CDF5B0F3-9A8A-49FD-8B21-9B1D5FB1DDC3}.Staging|PHP 5.2.ActiveCfg = Staging|PHP 5.2
+		{CDF5B0F3-9A8A-49FD-8B21-9B1D5FB1DDC3}.Staging|PHP 5.2.Deploy.0 = Staging|PHP 5.2
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

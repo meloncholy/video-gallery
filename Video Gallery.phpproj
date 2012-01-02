@@ -1,0 +1,342 @@
+"General"
+{
+"ProjectType" = "local"
+"AutoLoadTemplate" = "%s.php;class.%s.php;"
+"IncludeDirs" = ""
+}
+"Configurations"
+{
+    "Local|PHP 5.2"
+    {
+    }
+    "Staging|PHP 5.2"
+    {
+    }
+    "Production|PHP 5.2"
+    {
+    }
+}
+"Files"
+{
+    "application"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\autoload.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\config.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\constants.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\database.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\doctypes.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\foreign_chars.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\hooks.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\mimes.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\profiler.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\routes.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\smileys.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\config\\user_agents.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\controllers"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\controllers\\feedback.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\controllers\\home.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\controllers\\search.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\controllers\\snapshot.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\controllers\\video.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\errors"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\errors\\error_404.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\errors\\error_db.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\errors\\error_general.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\errors\\error_php.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\libraries"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\libraries\\bitly.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\libraries\\porterstemmer.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\libraries\\settings.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\models"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\models\\crumbs.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\models\\filters.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\models\\spell.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\models\\videoitem.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\views"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\views\\autosuggest_view.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\views\\batch_builder_view.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\views\\batch_view.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\views\\contact_thanks_view.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\views\\contact_view.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\views\\embed_footer_view.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\views\\embed_header_view.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\views\\embed_unknown_video_view.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\views\\embed_video_view.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\views\\feedback_error_view.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\views\\header_view.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\views\\home_view.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\views\\json_error_view.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\views\\no_video_view.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\views\\search_view.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\views\\submit_name_thanks_view.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\views\\suggest_name_view.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\views\\unknown_video_view.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "application\\views\\video_view.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "ie.css"
+    {
+    "ProjRelPath" = "T"
+    }
+    "index.php"
+    {
+    "ProjRelPath" = "T"
+    }
+    "jquery-1.5-vsdoc.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js\\jquery-1.6.2.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js\\jquery.ba-hashchange.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js\\jquery.fn.cookie.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js\\jquery.fn.vg.effects.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js\\jquery.fn.vg.slider.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js\\jquery.fn.vg.validateform.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js\\jquery.ui.core.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js\\jquery.ui.vg.alert.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js\\jquery.ui.vg.contact.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js\\jquery.ui.vg.crumbs.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js\\jquery.ui.vg.dialog.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js\\jquery.ui.vg.feedback.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js\\jquery.ui.vg.results.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js\\jquery.ui.vg.start.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js\\jquery.ui.vg.suggest.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js\\jquery.ui.vg.video.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js\\jquery.ui.widget.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js\\jquery.ui.widget.subclass.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "js\\jwplayer.js"
+    {
+    "ProjRelPath" = "T"
+    }
+    "style.css"
+    {
+    "ProjRelPath" = "T"
+    }
+}
+"ProjStartupServices"
+{
+}
+"Globals"
+{
+}
+"References"
+{
+}
